@@ -22,7 +22,7 @@ It is developed as part of a **college programming assignment**.
 
 ## 📁 Project Structure
 
-resume-website/
+Resume-site/
 │
 ├── index.html # Home page
 ├── resume.html # Resume page
@@ -47,7 +47,7 @@ resume-website/
 
 ## 🚀 How to Run This Project Locally
 
-1. Download or clone the repository:
+1. Download or clone the repository.
 2. Open the folder.
 3. Double-click on `index.html`.
 4. The website will open in your browser.
@@ -57,12 +57,7 @@ resume-website/
 ## 🌍 Live Website
 
 The project is hosted on GitHub Pages:
-
-
-
-2. Open the folder.
-3. Double-click on `index.html`.
-4. The website will open in your browser.
+https://jashwanth0666-ai.github.io/Resume-site/
 
 ---
 
@@ -87,4 +82,4 @@ This project is free to use for **learning and academic purposes**.
 
 ---
 
-⭐ *If you like this project, give it a star on GitHub!*
+⭐ *If you like this project, give it a star on GitHub! & Follow @jashwanth0666-ai*
