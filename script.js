@@ -22,13 +22,13 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Small jQuery effect: when user hovers on cards, they "pop"
-$(document).ready(function () {
-  $(".card").hover(
-    function () {
-      $(this).stop().animate({ marginTop: "-4px" }, 100);
-    },
-    function () {
-      $(this).stop().animate({ marginTop: "0px" }, 100);
-    }
-  );
-});
+// $(document).ready(function () {
+//   $(".card").hover(
+//     function () {
+//       $(this).stop().animate({ marginTop: "-4px" }, 100);
+//     },
+//     function () {
+//       $(this).stop().animate({ marginTop: "0px" }, 100);
+//     }
+//   );
+// });

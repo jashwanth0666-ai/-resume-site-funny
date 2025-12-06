@@ -59,7 +59,7 @@ body {
   font-size: 0.9rem;
   padding: 6px 12px;
   border-radius: 999px;
-  background: #ffe4fa;
+  background: #c7e3f3;
   color: #444;
   transition: transform 0.1s ease, box-shadow 0.1s ease, background 0.1s ease;
 }
@@ -67,11 +67,11 @@ body {
 .nav-link:hover {
   transform: translateY(-2px);
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
-  background: #ffd1f7;
+  background: #d1ebff;
 }
 
 .nav-link.active {
-  background: #ffb6f2;
+  background: #96e0fb;
   font-weight: bold;
 }
 
@@ -125,18 +125,18 @@ body {
   text-decoration: none;
   padding: 8px 16px;
   border-radius: 999px;
-  background: linear-gradient(135deg, #ffb6f2, #ffd1dc);
+  background: #b6dfff;
   font-size: 0.95rem;
   cursor: pointer;
   color: #333;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); */
   transition: transform 0.1s ease, box-shadow 0.1s ease;
 }
-
+/* 
 .btn:hover {
   transform: translateY(-2px) scale(1.03);
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
-}
+} */
 
 .small-btn {
   font-size: 0.85rem;
