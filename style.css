@@ -3,7 +3,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Comic Sans MS", "Segoe UI", system-ui, sans-serif;
+  font-family:  "Segoe UI", system-ui, sans-serif;
 }
 
 /* Backgrounds */
@@ -94,11 +94,7 @@ body {
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
 }
 
-.rainbow-border {
-  border: 3px dashed;
-  border-image: linear-gradient(45deg, #ff8a80, #ffeb3b, #69f0ae, #82b1ff, #ea80fc)
-    1;
-}
+
 
 .soft-card {
   border: 2px solid #ffe0f5;
@@ -148,7 +144,7 @@ body {
 
 /* Bouncy animation */
 
-.bouncy {
+/* .bouncy {
   animation: bounce 1.2s infinite alternate;
 }
 
@@ -159,11 +155,11 @@ body {
   100% {
     transform: translateY(-4px);
   }
-}
+} */
 
 /* Wiggle text */
 
-.wiggle {
+/* .wiggle {
   display: inline-block;
   animation: wiggle 0.6s infinite alternate;
 }
@@ -175,7 +171,7 @@ body {
   100% {
     transform: rotate(1deg);
   }
-}
+} */
 
 /* Lists */
 
@@ -249,8 +245,8 @@ body {
 
 /* Responsive */
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .nav-bar {
     flex-wrap: wrap;
   }
-}
+} */
